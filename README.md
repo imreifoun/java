@@ -1,5 +1,6 @@
 # java
 self-improvement-in-java
+
 1. Java Core (Language Fundamentals)
 
 These must be second nature.
