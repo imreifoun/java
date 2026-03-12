@@ -20,4 +20,6 @@ JDK
  └── JRE
       └── JVM
 
+# ⚡ Senior Java tip
 
+Modern Java versions (Java 11+) no longer ship JRE separately.
